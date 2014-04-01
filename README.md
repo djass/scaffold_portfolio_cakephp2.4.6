@@ -22,8 +22,8 @@ Il ne vous reste plus qu'a definir un template css si ce n'est pas encore le cas
 Comment ça marche?
 ------------------
 
-Une fois que vous avez télécharger le repo dans votre serveur web:
-
+Une fois que vous avez télécharger le repo dans votre serveur web :
+ 
 ***
 
 1. Inserez cake dans les variables d'environement de votre systeme, c'est grâce à cela que vous pourrer construire votre site.
